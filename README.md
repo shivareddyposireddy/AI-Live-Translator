@@ -142,6 +142,13 @@ http://localhost:8501
 - Emotion-aware translation
 
 ---
+## 🌐 Live Demo
+
+Frontend:
+https://ai-live-translator-5njzsgxhxbzc8g7yqb9cqw.streamlit.app/
+
+Backend API:
+https://ai-live-translator.onrender.com/docs
 
 # 👨‍💻 Author
 
