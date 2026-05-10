@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+deep-translator
+gtts
+pydantic
+python-dotenv
+requests
